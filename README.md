@@ -1,3 +1,11 @@
-# Curso Backend PHP en open-bootcamp.com
+# Backend PHP OpenBootcamp: ejercicios
 
-Requeriments: PHP 8.1
+Hoja de ruta de OpenBootcamp, enfocada en el Back-End con PHP.
+
+## Contenido
+
+* Introducción a la programación
+* PHP
+* Git
+* Laravel
+* Symfony
